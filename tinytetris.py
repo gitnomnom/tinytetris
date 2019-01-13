@@ -43,8 +43,8 @@ def on_press(key):
                 piece.fall()
 
 def on_release(key):
-    if key == keyboard.Key.down:
-        speed = 0.5
+    #if key == keyboard.Key.down:
+    #    speed = 0.5
     if piece.stop and piece.check_done():
         t = Thread(target = start)
         t.start()
