@@ -5,12 +5,12 @@ Python3 implemention of a Tetris game.
 
 ```
 git clone https://github.com/gitnomnom/tinytetris
-pip install pynput
+pip install pynput --user
 ```
 
 ## Play
 
 ```
-cd tinytetris
+cd tinytetris/tinytetris
 python3 tinytetris.py
 ```
