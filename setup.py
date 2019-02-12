@@ -1,6 +1,6 @@
 from setuptools import setup
 
-REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=3.0.0'
 URL = 'https://github.com/gitnomnom/tinytetris'
 NAME = 'tinytetris'
 DESC = 'Tetris implementation in Python' 
