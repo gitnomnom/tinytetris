@@ -5,6 +5,7 @@ Python3 implemention of a Tetris game.
 
 ```
 git clone https://github.com/gitnomnom/tinytetris
+pip install pynput
 ```
 
 ## Play
