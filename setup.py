@@ -8,7 +8,7 @@ AUTHOR = 'CDM'
 EMAIL = NONE
 
 setup(name=NAME,
-      version='None,
+      version=None,
       description=DESC,
       url=URL,
       author=AUTHOR,
