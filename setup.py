@@ -15,4 +15,5 @@ setup(name=NAME,
       author_email=None,
       license='Apache License, Version 3.0',
       packages=['tinytetris'],
+      install_requires=['pynput'],
       python_requires=REQUIRES_PYTHON)
