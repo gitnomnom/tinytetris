@@ -4,11 +4,12 @@ Python3 implemention of a Tetris game.
 ## Install 
 
 ```
-pip install git+git://github.com/gitnomnom/tinytetris.git
+git clone https://github.com/gitnomnom/tinytetris
 ```
 
 ## Play
 
 ```
+cd tinytetris
 python3 tinytetris.py
 ```
