@@ -1,11 +1,18 @@
 from setuptools import setup
 
-setup(name='tinytetris',
-      version='0.1',
-      description='Tetris implementation in Python',
-      url='https://github.com/gitnomnom/tinytetris',
-      author='CDM',
-      author_email='',
+REQUIRES_PYTHON = '>=3.6.0'
+URL = 'https://github.com/gitnomnom/tinytetris'
+NAME = 'tinytetris'
+DESC = 'Tetris implementation in Python' 
+AUTHOR = 'CDM'
+EMAIL = NONE
+
+setup(name=NAME,
+      version='None,
+      description=DESC,
+      url=URL,
+      author=AUTHOR,
+      author_email=EMAIL,
       license='Apache License, Version 3.0',
       packages=['tinytetris'],
-      zip_safe=False)
+      python_requires=REQUIRES_PYTHON)
