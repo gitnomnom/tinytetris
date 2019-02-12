@@ -4,7 +4,7 @@ Python3 implemention of a Tetris game.
 ## Install 
 
 ```
-pip install git+git://github.com/gitnomnom/tinytetrs.git
+pip install git+git://github.com/gitnomnom/tinytetris.git
 ```
 
 ## Play
